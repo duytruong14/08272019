@@ -10,7 +10,7 @@ public class InClass {
         String answer; // input value for user to input if they want to repeat
         String grade; //value for letter grade
         int counter=1;
-
+//Huh?????
         while ((repeat=='Y') || (repeat=='y')){ //Loop will terminate if user press 'N'
             System.out.println("Enter a grade: ");
             int number = input.nextInt(); //input value
